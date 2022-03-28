@@ -13,7 +13,7 @@ public class VetoresSomaMedia {
 		int n;
 	    double soma, media;
 
-	    System.out.print("Quantos numeros voce vai digitar? ");
+	    System.out.print("DIGITE os valores: ");
 	    n = sc.nextInt();
 
 	    double[] vetor = new double[n];
